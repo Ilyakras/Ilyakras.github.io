@@ -246,11 +246,6 @@ else if (i===11){
 	i++; 
 }
 
-function redo(){
-ans=1;
-i=1;
-score=0;
-}
 
 
 	
